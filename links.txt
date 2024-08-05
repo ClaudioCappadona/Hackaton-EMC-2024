@@ -1,1 +1,6 @@
+#Hackaton example notebook (is the same here in the repo, just on colab)
 https://colab.research.google.com/drive/1c17npKPmP_XQUcTvMcp-3eU2MKmfSDNx?usp=sharing
+
+#X-ray images of the hip joints (images and labes; nii.gz files)
+#these are from Mendeley and are open. 
+https://data.mendeley.com/datasets/zm6bxzhmfz/1
