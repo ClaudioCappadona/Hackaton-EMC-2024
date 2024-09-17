@@ -1,3 +1,6 @@
+tutorial EMC GPU cluster jupyter notebook
+https://gitlab.com/radiology/gpu-cluster/documentation/-/wikis/TopicGuides/Jupyter-Notebooks
+
 #Hackaton example notebook (is the same here in the repo, just on colab)
 https://colab.research.google.com/drive/1c17npKPmP_XQUcTvMcp-3eU2MKmfSDNx?usp=sharing
 
